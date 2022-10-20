@@ -24,3 +24,6 @@ Simple Blog Application where user can create, update, and delete blogs. The app
       NEXT_PUBLIC_GQL_API_TOKEN = <your Contentful GQL API Token, note that it is different from the above CMA personal access token>
       NEXT_PUBLIC_GQL_URI = "https://graphql.contentful.com/content/v1/spaces/<your space id>"
 4. Then run npm run dev, and then Voila :)
+
+# Note
+eslint might raise some errors based on the TypeScript version, but it will block the running of app
