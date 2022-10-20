@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.top {
+    margin-top: 1%;
+    display: flex;
+    align-items: left;
+}
+.verticle {
+    display: flex;
+    align-items: left;
+    line-height: 0.3rem;
+}
+
+.detail {
+    margin: auto;
+    margin-top: 3%;
+    width: 70% !important;
+    border: 1px grey;
+    border-style: inset;
+    text-align: center;
+    font-size: medium;
+    padding: 20px;
+}
+
+.title {
+    font-size: xx-large;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 1%;
+}
+.side_text {
+    margin-left: 950px;
+    font-style: italic;
+    color: grey;
+    font-size: small;
+    line-height: 0.3rem;
+}
+
+.quillStyle {
+    margin-top: 2%;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.deleteIcon {
+    position: relative;
+    left: 3.3rem;
+    cursor: pointer;
+}
+
+.editIcon {
+    position: relative;
+    left: 4.3rem;
+    cursor: pointer;
+}
+
+.react-confirm-alert-button-group button {
+    background-color: red;
+}
+
+.editing_area {
+    font-size: calc(7px + .5vw);
+    padding: auto;
+}
+
+.deleteButton {
+    background-color: "red",
+}
