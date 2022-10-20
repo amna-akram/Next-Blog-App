@@ -26,4 +26,4 @@ Simple Blog Application where user can create, update, and delete blogs. The app
 4. Then run npm run dev, and then Voila :)
 
 # Note
-eslint might raise some errors based on the TypeScript version, but it will block the running of app
+eslint might raise some errors based on the TypeScript version, but it will not block the running of app
